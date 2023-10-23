@@ -22,7 +22,7 @@ We've implemented a robust and user-friendly control panel for the florist owner
 ## Secure Authentication:
     We provide a secure authentication system, allowing the owner to log into her control panel privately and securely.
     
-![Project Image]("./../src/img/logoemmy.png")
+![Project Image](https://drive.google.com/file/d/1l2x1Zg4NnakY1bCUn5ZQfoPKBHBxtqmQ/view?usp=share_link)
 
 ## Deployment
 You can check the app fully deployed [here]).
